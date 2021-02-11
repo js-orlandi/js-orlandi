@@ -1,5 +1,10 @@
-### Hi there 👋
+### Eae, Meu nome é Juliano! Um cara que ama tecnologia 👋
 
+- 🎓Graduando em Analise e Desenvolvimento de Sistemas na [uninove](https://www.uninove.br/)
+- 📚Estou aprendendo: Java, Spring Framework, html, css e bootstrap
+- 🎯 Tenho interesse: Angular, TypeScript. 
+
+O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
 <!--
 **js-orlandi/js-orlandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
