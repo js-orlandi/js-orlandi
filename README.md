@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+11+963298587_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+11+963298587_de_telefone&text=Hello!)
 
   <center><a href="https://github.com/js-orlandi/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=js-orlandi&layout=compact&theme=dark"/></a> 
-  <a href="https://github.com/js-orlandi/"><img src="https://github-readme-stats.vercel.app/api?username=js-orlandi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="js-orlandi"/></a><center>
+  </center>
+  <a href="https://github.com/js-orlandi/"><img src="https://github-readme-stats.vercel.app/api?username=js-orlandi&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="js-orlandi"/></a></center>
 </p> 
 
