@@ -1,4 +1,4 @@
-### Eae, Meu nome é Juliano! Um cara que ama tecnologia 👋
+### Eae, Meu nome é Juliano, Bem Vindo! Um cara que ama tecnologia 👋
 
 - 🎓Graduando em Analise e Desenvolvimento de Sistemas na [uninove](https://www.uninove.br/)
 - 📚Estou aprendendo: Java, POO, Spring Framework, html, css e bootstrap
