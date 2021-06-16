@@ -1,7 +1,7 @@
 ### Eae, Meu nome é Juliano! Um cara que ama tecnologia 👋
 
 - 🎓Graduando em Analise e Desenvolvimento de Sistemas na [uninove](https://www.uninove.br/)
-- 📚Estou aprendendo: Java, POO, Spring Framework, html, css e bootstrap
+- 📚Estou aprendendo: C#, .NET, html, css e bootstrap
 - 🎯 Tenho interesse: Angular, TypeScript. 
 
 O  aprendizado é continuo e o próximo nível nunca será o ultimo 🚀 
